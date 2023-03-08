@@ -1,0 +1,7 @@
+{
+  "name": "sept_2022Node",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
