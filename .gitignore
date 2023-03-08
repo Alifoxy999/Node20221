@@ -1,0 +1,11 @@
+# Default ignored files
+/node_modules
+.//idea
+/sept_2022Node.iml
+/shelf/
+/.idea/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
